@@ -10,17 +10,17 @@
 
 [[main]]
   name = "Research"
-  url = "#posts"
+  url = "#research"
   weight = 20
 
 [[main]]
-  name = "Team"
+  name = "Group Members"
   url = "#projects"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
