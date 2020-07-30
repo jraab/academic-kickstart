@@ -1,5 +1,4 @@
 +++
-# A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -7,9 +6,9 @@ weight = 65  # Order that this section will appear.
 
 title = "Research"
 subtitle = ""
++++
 
-[content]
-
+#Research
 Chromatin remodeling plays a critical role in regulating all processes that require access to DNA. There are four families of chromatin remodelers, defined by the ATPase subunit of the complex. Although each family is often treated as a singular entity, in reality, the composition of remodeling complexes can vary greatly based on the inclusion of different subunits. Changes to composition are found throughout development and disease, and are especially frequent in cancer. The details of how altered chromatin remodeler composition contributes to disease is complicated by the myriad combinations possible and remains poorly understood. The goal of my lab is to understand how the composition of a chromatin remodeling complex is regulated, and how altered chromatin remodeling disrupts normal chromatin state and contributes to disease. My work integrates quantitative genomics, biochemistry, and molecular biology to develop a mechanistic understanding of how changes to the composition of a chromatin remodeling complex affects its function. Currently, we are focused on defining the mechanisms that control the activity and composition of the SWI/SNF complex. Additionally, given that SWI/SNF subunits are mutated in approximately 20% of liver tumors, we are interested in understanding how disruption of this complex contributes to liver disease and liver cancer. 
 
 How is composition and assembly of the SWI/SNF complex regulated?
