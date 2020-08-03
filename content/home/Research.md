@@ -1,11 +1,20 @@
 +++
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Research"
 subtitle = ""
+
+
+
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
 
 #Research
@@ -19,11 +28,3 @@ How do mutations in SWI/SNF subunits alter chromatin and drive tumor formation?
 
 Incidence of liver cancer is rising, and new approaches to understanding this disease are needed. Among the most commonly mutated genes in liver cancer are three of the mutually exclusive subunits of SWI/SNF (ARID1A, ARID1B, and ARID2), which are mutated in 20% of liver tumors. Liver cancer is the ultimate outcome of a progressive disease that begins with fibrosis. Currently, little is known about the chromatin changes that occur during liver disease progression, or how disruption of SWI/SNF function drives the development of liver cancer. Our lab is interested in determining how disruption of the SWI/SNF complex contribute to liver disease, whether different forms of the SWI/SNF complex give rise to tumors through distinct mechanisms, and generating novel SWI/SNF-dependent tumor models using high-throughput in vivo CRISPR editing. 
   
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
