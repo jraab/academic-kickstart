@@ -14,8 +14,7 @@ header:
   image: ""
 
 widget = "blank"
-headless = true
-columns = "1"
+
 ---
 
 # Test
