@@ -12,9 +12,6 @@ view: 4
 header:
   caption: ""
   image: ""
-
-widget = "blank"
-
 ---
 
 # Test
