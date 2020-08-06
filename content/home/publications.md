@@ -7,8 +7,15 @@ weight = 90  # Order that this section will appear.
 title = "Publications"
 subtitle = ""
 
-[content]
-  
+ 
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
 #Preprints
 
 1.Tulasi DY, Castaneda DM, Wager K, Alcedo KP, Raab JR, Gracz AD. Sox9EGFP defines biliary epithelial heterogeneity downstream of Yap activity. bioRxiv. 2020. p. 2020.05.28.113522. doi:10.1101/2020.05.28.113522
@@ -62,15 +69,4 @@ subtitle = ""
 23. Chaudhry U, Kingham P, Plitas G, Katz S, Stabelford J, Raab J, et al. Interleukin-18 and the toll-like receptor 9 ligand CpG stimulate murine splenic natural killer dendritic cells (NKDC) to proliferate and secrete IFN-gamma. J Am Coll Surg. Elsevier; 2006;203: S79–S80.
 
 24. Bembenek J, Kang J, Kurischko C, Li B, Raab JR, Belanger KD, et al. Crm1-mediated nuclear export of Cdc14 is required for the completion of cytokinesis in budding yeast. Cell Cycle. Taylor & Francis; 2005;4: 961–971. Available: http://www.ncbi.nlm.nih.gov/pubmed/15917648
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
  
- # CSS class.
- css_class = ""
-+++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
