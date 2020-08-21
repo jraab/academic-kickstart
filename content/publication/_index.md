@@ -14,24 +14,6 @@ header:
   image: ""
 ---
 
-+++
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
-
-title = "Publications"
-subtitle = ""
-
- 
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
 #Preprints
 
 1.Tulasi DY, Castaneda DM, Wager K, Alcedo KP, Raab JR, Gracz AD. Sox9EGFP defines biliary epithelial heterogeneity downstream of Yap activity. bioRxiv. 2020. p. 2020.05.28.113522. doi:10.1101/2020.05.28.113522
