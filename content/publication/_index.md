@@ -14,11 +14,11 @@ header:
   image: ""
 ---
 
-#Preprints
+# Preprints
 
 1.Tulasi DY, Castaneda DM, Wager K, Alcedo KP, Raab JR, Gracz AD. Sox9EGFP defines biliary epithelial heterogeneity downstream of Yap activity. bioRxiv. 2020. p. 2020.05.28.113522. doi:10.1101/2020.05.28.113522
 
-#Peer Reviewed
+# Peer Reviewed
 
 1. Raab JR, Tulasi DY, Wager KE, Morowitz JM, Magness ST, Gracz AD. Quantitative classification of chromatin dynamics reveals regulators of intestinal stem cell differentiation. Development. 2019. doi:10.1242/dev.181966
 
