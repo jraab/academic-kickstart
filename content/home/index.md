@@ -1,6 +1,5 @@
 +++
 # Homepage
-type = "widget_page"
 header: 
    image:  "static/img/header.jpg"
 +++
