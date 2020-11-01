@@ -2,8 +2,8 @@
 # Homepage
 type = "widget_page"
 headless = true  # Homepage is headless, other widget pages are not.
-
-image =  "static/img/header.jpg"
+header: 
+   image:  "static/img/header.jpg"
 +++
 
 Chromatin remodeling plays a critical role in regulating all processes that require access to DNA. There are four families of chromatin remodelers, defined by the ATPase subunit of the complex. Although each family is often treated as a singular entity, in reality, the composition of remodeling complexes can vary greatly based on the inclusion of different subunits. Changes to composition are found throughout development and disease, and are especially frequent in cancer. The details of how altered chromatin remodeler composition contributes to disease is complicated by the myriad combinations possible and remains poorly understood. 
